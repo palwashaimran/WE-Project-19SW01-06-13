@@ -8,7 +8,7 @@ Requirements for the project:
 
 Step by Step guide to run the project: 
 - First of all download the zip file onto your system or clone the repository.
-- Export the database file “we_project.sql” and place it inside c>xampp>htdocs folder. 
+- Import the database file “we_project.sql” and place it inside c>xampp>htdocs folder. 
 - To run the project write localhost/we_project on a browser of your choice.
 - To run the admin side of the project write localhost/we_project/loginAdmin.php on a browser of your choice. 
 
